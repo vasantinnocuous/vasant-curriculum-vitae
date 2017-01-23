@@ -1,0 +1,323 @@
+{
+    "basics": {
+        "name": "Vasant Bajantri",
+        "label": "Frontend Developer",
+        "picture": "https://secure.gravatar.com/avatar/be6059289819e1578abf5631c26c2adb",
+        "email": "vasanthbajantri@gmail.com",
+        "phone": "+4917676027324",
+      
+        "summary": "I am Jovial, fun loving person and a team player. I love playing Badminton and Football. I am a hard worker and build a good communication environment around my work place.",
+        "location": {
+            "address": "Bonhoeffer Straße 9",
+            "postalCode": "69123",
+            "city": "Heidelberg",
+            "country": "Germany",
+            "region": "Baden-Württemberg"
+        },
+        "profiles": [
+            {
+                "network": "Skype",
+                "username": "vasantinnocuous"
+                
+            },
+            {
+                "network": "Email",
+                "username": "vasanthbajantri@gmail.com"
+                
+            },
+            {
+                "network": "LinkedIn",
+                "url": "https://de.linkedin.com/in/vasant-bajantri-90aba225"
+            },
+            {
+                "network": "Xing",
+                "url": "https://www.xing.com/profile/Vasant_Bajantri?sc_o=mxb_p"
+            }
+           
+        ]
+    },
+    "work": [
+         
+        {
+            "company": "SRH Hochschule Heidelberg",
+            "position": "Master Thesis",
+            "website": "https://www.hochschule-heidelberg.de/de/startseite/",
+            "Topic": "Course Structuring and Data Analytics in e-learning",
+            "startDate": "2015-09-01",
+            "endDate": "2016-03-31",
+            "summary": "Heidelberg, Germany",
+            "highlights": [
+                "Course Structuring Open edX Rest APIs",
+                "Analyzing and retrieving data on different learning platforms",
+                "Course Structuring Tin Can API"
+            ]
+                
+        },
+        {
+            "company": "SAP SE",
+            "position": "Data Management Working Student",
+            "website": "http://go.sap.com/germany/index.html",
+            "startDate": "2015-10-05",
+            "endDate": "2016-01-04",
+            "summary": "Walldorf, Germany",
+            "highlights": [
+                "Designed a method for reading XML text file and converting it to PowerPoint",
+                "Implemented SAP UI5 framework and worked on JavaScript",
+                "Created an application in Eclipse to store files.",
+                "Comfortable in interacting with business customers and other groups within the company.",
+                "Provided analytical support and expertise when compiling and reporting information."
+            ]
+        },
+        {
+            "company": "Karlsruhe Institute of Technology",
+            "position": "Web-Platform for Online Monitoring of Large Scientific Experiments Intern",
+            "website": "http://www.kit.edu/",
+            "startDate": "2014-11-11",
+            "endDate": "2015-05-12",
+            "summary": "Karlsruhe, Germany",
+            "highlights": [
+                "Organised and executed Web2py framework in Python, JavaScript, jQuery, Ajax, Gulp.",
+                "Responsible for databases in MySQL and analysis",
+                "Worked on MVC utilising Web2py framework.",
+                "Worked on Elastic search, PostgreSQL",
+                "Researching best practice in data analysis, presentation and management techniques."
+            ]
+        },
+        {
+            "company": "Technochrome Informatics Pvt. Ltd.",
+            "position": "Software Associate",
+            "startDate": "2011-12-22",
+            "endDate": "2013-01-28",
+            "summary": "Bengaluru, India",
+            "highlights": [
+                "UI development to create a seamless customer experience for a high traffic ecommerce website through desktop and smartphone app interfaces.",
+                "Refined user experience by designing and implementing new modules and interfaces in complex responsive sites.",
+                "Front End development utilizing HTML5, CSS3 and JavaScript Leveraging the Bootstrap framework and a SQL back-end.",
+                "Built HTML templates for high traffic and complex data driven websites."
+            ]
+        }
+        
+    ],
+  
+    "education": [
+        {
+            "institution": "SRH Hochschule Heidelberg",
+            "area": "MSc. in Applied Computer Science",
+            "studyType": "Masters",
+            "startDate": "2013-10-14",
+            "endDate": "2016-03-31",
+            "gpa": "2.9",
+            "summary": "Heidelberg, Germany",
+            "courses": [
+                "International Project Management",
+                "Software Applications and Development",
+                "Information Systems",
+                "SAP HANA",
+                "SAP ABAP",
+                "Advanced Compuer Science",
+                "SAP ERP"
+               
+            
+            ]
+        },
+        {
+            "institution": "PDA College Of Engineering",
+            "area": "BEng. in Electronics and Communication Engineering",
+            "studyType": "Bachelors",
+            "startDate": "2007-09-01",
+            "endDate": "2010-12-31",
+            "Cgpa": "7.24",
+            "summary": "Gulbarga, Karnataka, India",
+            "courses": [
+                "VLSI",
+                "Microprocessor",
+                "Wireless Communication",
+                "Signals and Systems",
+                "Digital Communication",
+                "Operating Systems"
+                
+            ]
+        }
+    ],
+   
+    "skills": [
+        {
+            "name": "JavaScript",
+            "level": "90",
+            "keywords": [
+                "programming",
+                "expressjs",
+                "koajs"
+            ]
+        },
+        {
+            "name": "jQuery",
+            "level": "80",
+            "keywords": [
+                "programming",
+                "django",
+                "scrapy"
+            ]
+        },
+         {
+            "name": "Bootstrap",
+            "level": "80",
+            "keywords": [
+                "programming",
+                "django",
+                "scrapy"
+            ]
+        },
+         {
+            "name": "React js",
+            "level": "80",
+            "keywords": [
+                "programming",
+                "django",
+                "scrapy"
+            ]
+        },
+         {
+            "name": "Python",
+            "level": "85",
+            "keywords": [
+                "programming",
+                "django",
+                "scrapy"
+            ]
+        },
+         {
+            "name": "PHP",
+            "level": "85",
+            "keywords": [
+                "programming",
+                "django",
+                "scrapy"
+            ]
+        },
+        {
+            "name": "HTML",
+            "level": "90",
+            "keywords": [
+                "programming"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "70",
+            "keywords": [
+                "programming"
+            ]
+        },
+
+          {
+            "name": "SAP HANA",
+            "level": "80",
+            "keywords": [
+                "database",
+                "in-memory"
+            ]
+        },
+       
+        {
+            "name": "Neo4j",
+            "level": "80",
+            "keywords": [
+                "database",
+                "nosql"
+            ]
+        },
+
+
+       
+        {
+            "name": "MongoDB",
+            "level": "70",
+            "keywords": [
+                "database",
+                "nosql"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "level": "60",
+            "keywords": [
+                "database",
+                "sql"
+            ]
+        },
+        {
+            "name": "PostgreSQL",
+            "level": "60",
+            "keywords": [
+                "database",
+                "sql"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "level": "100"
+        },
+        {
+            "name": "German",
+            "level": "10"
+        },
+        {
+            "name": "Kannada",
+            "level": "100"
+        },
+        {
+            "name": "Marathi",
+            "level": "80"
+        },
+        {
+            "name": "Telugu",
+            "level": "80"
+        }
+        
+
+
+    ],
+    "interests": [
+        {
+            "name": "Playing Badminton",
+            "keywords": []
+        },
+        {
+            "name": "Playing Football",
+            "keywords": []
+        },
+        {
+            "name": "New Technologies",
+            "keywords": []
+        },
+        {
+            "name": "Adventures",
+            "keywords": []
+        },
+        {
+            "name": "Startups",
+            "keywords": []
+        },
+        {
+            "name": "Spirituality",
+            "keywords": []
+        },
+         {
+            "name": "Travelling",
+            "keywords": []
+        }
+    ],
+    "references": [
+        {
+            "name": "Gerd Hagmaier:Manager: SAP SE",
+            "reference": "Mr. Bajantri has very good knowledge of MS PowerPoint. He also acquired basic knowledge of SAP's own SAP HANA application. He has very good skills in the XML and VBA programming languages as well as good skills in the Python programming language."
+        },
+        {
+            "name": "Anton Belousov:Mentor: SAP SE",
+            "reference": "Vasant Bajantri has a very good skills in VBA programming, he is quick learner and a team player. I will sure recommend him to his valuable contribution to the team."
+        }
+    ]
+}
